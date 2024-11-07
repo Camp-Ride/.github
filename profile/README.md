@@ -20,7 +20,7 @@
 
 - SpringBoot
 
-## 📸 스크린샷
+## 📸 사진
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/59b720c1-5a7d-431a-9e7c-d886e8d937b2" width="160" alt="캠프라이드 스크린샷1" />

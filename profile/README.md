@@ -22,15 +22,14 @@
 
 ## 📸 스크린샷
 
-![SC 43 (1).png](<https://prod-files-secure.s3.us-west-2.amazonaws.com/c6e289a5-e497-4bba-bd80-f6f8776c1434/cc5982f1-fbf9-4538-b630-e787f026e26c/SC_43_(1).png>)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/59b720c1-5a7d-431a-9e7c-d886e8d937b2" width="160" alt="캠프라이드 스크린샷1" />
+  <img src="https://github.com/user-attachments/assets/6f9d2a22-d696-45a7-9926-20b085fb6341" width="160" alt="캠프라이드 스크린샷2" />
+  <img src="https://github.com/user-attachments/assets/3d3bf6ba-ec13-4fc9-8f1c-9fd58e392725" width="160" alt="캠프라이드 스크린샷3" />
+  <img src="https://github.com/user-attachments/assets/266beb8a-2a2d-42f3-afff-e63a0bd27cc0" width="160" alt="캠프라이드 스크린샷4" />
+  <img src="https://github.com/user-attachments/assets/51110e5b-82f8-44ba-b86d-7e2247cf69fa" width="160" alt="캠프라이드 스크린샷5" />
+</p>
 
-![SC 44.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c6e289a5-e497-4bba-bd80-f6f8776c1434/d263ed84-1eb2-4bc4-98b6-fb6ba9576608/SC_44.png)
-
-![SC 45.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c6e289a5-e497-4bba-bd80-f6f8776c1434/05eb258e-361e-4e25-855b-aebb2a66e330/SC_45.png)
-
-![SC 46.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c6e289a5-e497-4bba-bd80-f6f8776c1434/704f4ca6-5b3e-4c32-969d-4406695a8032/SC_46.png)
-
-![SC 47.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c6e289a5-e497-4bba-bd80-f6f8776c1434/dd91a718-4c50-4f97-b608-500684a45ce8/SC_47.png)
 
 ## 🍎 앱스토어
 

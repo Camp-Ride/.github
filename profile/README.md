@@ -20,6 +20,11 @@
 
 - SpringBoot
 
+## 🛠️ 시스템아키텍쳐
+
+<img width="1138" alt="스크린샷 2024-11-08 오전 3 05 38" src="https://github.com/user-attachments/assets/cf6b3cde-7d38-4a07-817a-f98cac348e73">
+
+
 ## 📸 사진
 
 <p align="center">
